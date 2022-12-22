@@ -1,0 +1,4 @@
+﻿  text.c
+D:\c语言练习\text-12-20\text-12-20\text.c(615,16): warning C4013: “strcpm”未定义；假设外部返回 int
+D:\c语言练习\text-12-20\text-12-20\text.c(615,36): error C2037: “name”的左侧部分指定未定义的结构/联合“stu”
+D:\c语言练习\text-12-20\text-12-20\text.c(615,61): error C2037: “name”的左侧部分指定未定义的结构/联合“stu”
